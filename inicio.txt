@@ -3,4 +3,6 @@ hola
 
 en estos momentos estoy aprendiendo programacion 
 
-mi primer lenguaje sera python 
+mi primer lenguaje sera JavaScript
+
+es broma, aprendere Python 
