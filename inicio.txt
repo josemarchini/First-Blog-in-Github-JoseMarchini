@@ -5,4 +5,6 @@ en estos momentos estoy aprendiendo programacion
 
 mi primer lenguaje sera JavaScript
 
-es broma, aprendere Python 
+es broma, aprendere Python
+
+El proximo idioma sera JavaScript
