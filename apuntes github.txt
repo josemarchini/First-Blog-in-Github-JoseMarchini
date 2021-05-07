@@ -1,0 +1,12 @@
+codigo para crear una llave privada en Git: ssh-keygen -t rsa -b 4096 -C "jmarchinisarmiento@gmail.com"
+codigo para verificar si nuestro entorno esta corriendo las llaves privadas: eval $(ssh-agent -s) 
+
+     "recordar que en Git ~ representa el Home"
+
+codigo para agregar mi llave privada a mi entorno: $ ssh-add ~/.ssh/id_rsa
+
+codigo para enlazar el ssh de mi github a mi entorno de desarrollo local (o repositorio local): git remote set-url origin (codigo ssh de mi cuenta github)
+
+codigo para crear un tag: git tag -a v0.1 -m "nombre del tag"
+
+      "codigo para saber todos los codigos que meti (history)"
